@@ -6,7 +6,7 @@ This is a [Wasp](https://wasp-lang.dev/) template configured for ephemeral devel
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-wasp)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/sodic/dev-excuses-gitpod)
 
 ## Get Started With Your Own Project
 
